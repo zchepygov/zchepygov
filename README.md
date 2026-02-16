@@ -44,4 +44,3 @@ Thanks for taking the time to learn a bit about me. If you'd like to connect or 
 [![Telegram](https://img.shields.io/badge/telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=fff&cacheSeconds=3600)](https://t.me/zchepygov)
 [![VK](https://img.shields.io/badge/vk-4C75A3?style=for-the-badge&logo=vk&logoColor=fff&cacheSeconds=3600)](https://vk.com/zchepygov)
 [![Gmail](https://img.shields.io/badge/gmail-D44638?style=for-the-badge&logo=gmail&logoColor=fff&cacheSeconds=3600)](mailto:zchepygov@gmail.com)
-[![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=fff&cacheSeconds=3600)](https://discordapp.com/users/396046889465675776)
