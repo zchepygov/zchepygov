@@ -8,46 +8,52 @@ I approach development as an engineering discipline: clean architecture, maintai
 
 ## ⚛️ Frontend Systems
 
-![HTML5](https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=fff&cacheSeconds=3600)
-![CSS3](https://img.shields.io/badge/css3-0769AD?style=for-the-badge&logo=css3&logoColor=fff&cacheSeconds=3600)
-![SASS](https://img.shields.io/badge/sass-cc6699?style=for-the-badge&logo=sass&logoColor=fff&cacheSeconds=3600)
-![JavaScript](https://img.shields.io/badge/javascript-593d88?style=for-the-badge&logo=javascript&logoColor=fff&cacheSeconds=3600)
-![React](https://img.shields.io/badge/react-0a0fff?style=for-the-badge&logo=react&logoColor=fff&cacheSeconds=3600)
-![Next.js](https://img.shields.io/badge/next.js-74aa9c?style=for-the-badge&logo=next.js&logoColor=fff&cacheSeconds=3600)
-![JQuery](https://img.shields.io/badge/jquery-44cc11?style=for-the-badge&logo=jquery&logoColor=fff&cacheSeconds=3600)
-![NPM](https://img.shields.io/badge/npm-2c8ebb?style=for-the-badge&logo=npm&logoColor=fff&cacheSeconds=3600)
+- SPA / SSR architectures
+- Component-driven development
+- State management patterns
+- Performance & SEO optimization
+- Responsive UI systems
+- REST API integration
 
 ## 🧠 Backend Stack
 
-![PHP](https://img.shields.io/badge/php-0078d4?style=for-the-badge&logo=php&logoColor=fff&cacheSeconds=3600)
-![Python](https://img.shields.io/badge/python-cc6699?style=for-the-badge&logo=python&logoColor=fff&cacheSeconds=3600)
-![JSON](https://img.shields.io/badge/json-4a154b?style=for-the-badge&logo=json&logoColor=fff&cacheSeconds=3600)
+- RESTful API development
+- MVC architecture
+- Authentication & authorization
+- Database design & query optimization
+- Data validation & error handling
 
 ## 🐳 Infrastructure & Deployment
 
-![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=fff&cacheSeconds=3600)
-![Docker](https://img.shields.io/badge/docker-1D63ED?style=for-the-badge&logo=docker&logoColor=fff&cacheSeconds=3600)
-![Linux](https://img.shields.io/badge/linux-E95420?style=for-the-badge&logo=linux&logoColor=fff&cacheSeconds=3600)
+- Dockerized environments
+- Linux server configuration
+- Multi-environment setup (dev/stage/prod)
+- CI/CD basics
+- Domain & deployment management
 
 ## 🏗 Architecture & Engineering
 
-![TypeScript](https://img.shields.io/badge/typescript-c21325?style=for-the-badge&logo=typescript&logoColor=fff&cacheSeconds=3600)
-![Laravel](https://img.shields.io/badge/laravel-e34f26?style=for-the-badge&logo=laravel&logoColor=fff&cacheSeconds=3600)
-![Redux](https://img.shields.io/badge/redux-2c8ebb?style=for-the-badge&logo=redux&logoColor=fff&cacheSeconds=3600)
-![MySQL](https://img.shields.io/badge/mysql-0769AD?style=for-the-badge&logo=mysql&logoColor=fff&cacheSeconds=3600)
+- Scalable system design
+- Modular project structure
+- SOLID & clean code principles
+- Separation of concerns
+- Refactoring & performance optimization
 
 ## 🔬 API Design & Integration
 
-![PostMan](https://img.shields.io/badge/postman-ff6c37?style=for-the-badge&logo=postman&logoColor=fff&cacheSeconds=3600)
-![Swagger](https://img.shields.io/badge/swagger-44cc11?style=for-the-badge&logo=swagger&logoColor=fff&cacheSeconds=3600)
+- Resource-oriented API design
+- OpenAPI documentation
+- API versioning
+- Third-party integrations
+- Contract-based JSON structures
 
 ## 📦 Delivery & Collaboration
 
-![Figma](https://img.shields.io/badge/figma-f24e1e?style=for-the-badge&logo=figma&logoColor=fff&cacheSeconds=3600)
-![Jira](https://img.shields.io/badge/jira-0a0fff?style=for-the-badge&logo=jira&logoColor=fff&cacheSeconds=3600)
-![Slack](https://img.shields.io/badge/slack-4a154b?style=for-the-badge&logo=slack&logoColor=fff&cacheSeconds=3600)
-![Wordpress](https://img.shields.io/badge/wordpress-444140?style=for-the-badge&logo=wordpress&logoColor=fff&cacheSeconds=3600)
-![ChatGPT](https://img.shields.io/badge/chatgpt-74aa9c?style=for-the-badge&logo=openai&logoColor=fff&cacheSeconds=3600)
+- Agile workflow
+- Git-based development (PR, code review)
+- Cross-functional collaboration
+- Technical documentation
+- Iterative delivery mindset
 
 ## 📬 Contacts
 
