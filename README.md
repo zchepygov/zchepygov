@@ -60,5 +60,3 @@ I approach development as an engineering discipline: clean architecture, maintai
 If you're looking for a developer who treats software as an engineering product — not just code — feel free to reach out.
 
 [![Telegram](https://img.shields.io/badge/telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=fff&cacheSeconds=3600)](https://t.me/zchepygov)
-[![VK](https://img.shields.io/badge/vk-4C75A3?style=for-the-badge&logo=vk&logoColor=fff&cacheSeconds=3600)](https://vk.com/zchepygov)
-[![Gmail](https://img.shields.io/badge/gmail-D44638?style=for-the-badge&logo=gmail&logoColor=fff&cacheSeconds=3600)](mailto:zchepygov@gmail.com)
