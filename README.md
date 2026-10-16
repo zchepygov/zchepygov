@@ -31,7 +31,13 @@ Fifteen-plus years of real projects taught me how every layer fits together — 
 
 ## 🛠 My toolbox
 
-**Development:** JavaScript · TypeScript · PHP · SQL · REST / OpenAPI · Docker · Linux · Git · CI/CD
+**Frontend & Mobile:** JavaScript (Vanilla) · TypeScript · Next.js · React Native · HTML · Sass / SCSS
+
+**Backend:** PHP · Laravel · Node.js · REST / OpenAPI
+
+**Databases:** MySQL · MariaDB · Redis
+
+**DevOps:** Linux · Docker · Git · CI/CD
 
 **AI:** Claude · ChatGPT · Gemini · Grok · Higgsfield · Kling · ElevenLabs
 
