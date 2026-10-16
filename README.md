@@ -1,62 +1,50 @@
-# Hello, I'm Evgeniy 👋
+# Hi, I'm Evgeniy 👋
 
-I'm a full-stack engineer with strong experience in building scalable web applications, REST APIs, and production-ready frontend architectures.
+> *"Do it well — and if you can, do it even better!"* 💡
 
-I specialize in JavaScript/TypeScript ecosystems and PHP-based backends, with a solid understanding of infrastructure, containerization, and deployment workflows.
+I've been building for the web **since 2010** 🚀 — and I don't just write code, I ship **complete products**.
 
-I approach development as an engineering discipline: clean architecture, maintainability, performance, and business impact always come first. Continuous learning is not a slogan for me — it's a working principle.
+From simple landing pages to high-load services handling serious traffic, I take projects all the way from a rough idea to a polished release. Planning, architecture, frontend, backend, servers, deployment, support — I cover the whole journey, so you get a product that's ready to work, not a pile of parts waiting for someone to assemble them.
 
-## ⚛️ Frontend Systems
+Fifteen-plus years of real projects taught me how every layer fits together — and, more importantly, where things tend to break. 🔧
 
-- SPA / SSR architectures
-- Component-driven development
-- State management patterns
-- Performance & SEO optimization
-- Responsive UI systems
-- REST API integration
+## 🎯 What I deliver
 
-## 🧠 Backend Stack
+**📦 Products, start to finish**
+- Turning an idea into a clear plan and a working solution
+- Architecture that's easy to maintain and ready to scale
+- Fast, responsive interfaces people genuinely enjoy using
+- Solid APIs, databases and integrations under the hood
+- Launch, monitoring and support long after release
 
-- RESTful API development
-- MVC architecture
-- Authentication & authorization
-- Database design & query optimization
-- Data validation & error handling
+**🐧 Infrastructure that just works**
+- Linux servers set up and maintained from scratch
+- Docker environments for development, staging and production
+- CI/CD pipelines for safe, repeatable releases
+- Domains, web servers, SSL — all the boring stuff, done right
 
-## 🐳 Infrastructure & Deployment
+**🤖 AI, from text to video**
+- Speeding up development with AI — more done, faster, with a smaller team
+- Building AI features into products and business workflows
+- Copywriting, articles and content generated and refined with AI
+- Professional video production with modern generative tools
 
-- Dockerized environments
-- Linux server configuration
-- Multi-environment setup (dev/stage/prod)
-- CI/CD basics
-- Domain & deployment management
+## 🛠 My toolbox
 
-## 🏗 Architecture & Engineering
+**Development:** JavaScript · TypeScript · PHP · SQL · REST / OpenAPI · Docker · Linux · Git · CI/CD
 
-- Scalable system design
-- Modular project structure
-- SOLID & clean code principles
-- Separation of concerns
-- Refactoring & performance optimization
+**AI:** Claude · ChatGPT · Gemini · Grok · Higgsfield · Kling · ElevenLabs
 
-## 🔬 API Design & Integration
+## 🧭 How I work
 
-- Resource-oriented API design
-- OpenAPI documentation
-- API versioning
-- Third-party integrations
-- Contract-based JSON structures
+- ✅ **I own the result.** The job isn't done when the code compiles — it's done when the product works for real users.
+- ✨ **I keep it simple.** No needless complexity, no features nobody asked for.
+- 🧹 **I write clean code.** Clear structure, so anyone can pick it up later.
+- 💬 **I communicate openly.** Regular updates, honest estimates, no unpleasant surprises.
+- 📚 **I never stop learning.** Especially in AI, where the game changes every few months.
 
-## 📦 Delivery & Collaboration
+## 📬 Let's talk
 
-- Agile workflow
-- Git-based development (PR, code review)
-- Cross-functional collaboration
-- Technical documentation
-- Iterative delivery mindset
+Got an idea for a product, or need someone to take a project from zero to launch? Drop me a message — I'm always up for an interesting challenge. 🤝
 
-## 📬 Contacts
-
-If you're looking for a developer who treats software as an engineering product — not just code — feel free to reach out.
-
-[![Telegram](https://img.shields.io/badge/telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=fff&cacheSeconds=3600)](https://t.me/zchepygov)
+[![Telegram](https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/zchepygov)
