@@ -14,6 +14,7 @@ Fifteen-plus years of real projects taught me how every layer fits together — 
 - Turning an idea into a clear plan and a working solution
 - Architecture that's easy to maintain and ready to scale
 - Fast, responsive interfaces people genuinely enjoy using
+- Cross-platform mobile apps for iOS and Android with React Native 📱
 - Solid APIs, databases and integrations under the hood
 - Launch, monitoring and support long after release
 
